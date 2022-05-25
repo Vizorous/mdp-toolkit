@@ -204,7 +204,7 @@ scipy_1_4_depr = (
 'empty', 'empty_like', 'equal', 'errstate', 'exp', 'exp2', 'expand_dims',
 'expm1', 'extract', 'eye', 'fabs', 'fastCopyAndTranspose', 'fill_diagonal',
 'find_common_type', 'finfo', 'fix', 'flatiter', 'flatnonzero', 'flexible',
-'flip', 'fliplr', 'flipud', 'float128', 'float16', 'float32', 'float64',
+'flip', 'fliplr', 'flipud', 'longdouble', 'float16', 'float32', 'float64',
 'float_', 'float_power', 'floating', 'floor', 'floor_divide', 'fmax', 'fmin',
 'fmod', 'format_float_positional', 'format_float_scientific', 'format_parser',
 'frexp', 'frombuffer', 'fromfile', 'fromfunction', 'fromiter', 'frompyfunc',
